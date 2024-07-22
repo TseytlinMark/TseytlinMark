@@ -21,7 +21,7 @@ I'm Mark, a Software & Information Systems Engineering graduate from Ben-Gurion 
 ### Object-Oriented Programming:
 - **Maze Game Application** - JAVA
 
-### System and Multi-Thread Applications:
+### Memory Allocation Management: 
 - [**Pokemon Battles Management**](https://github.com/TseytlinMark/Pokemon-Battles) - C
 
 ## Connect with Me 🤝
