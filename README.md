@@ -22,7 +22,7 @@ I'm Mark, a Software & Information Systems Engineering graduate from Ben-Gurion 
 - **Maze Game Application** - JAVA
 
 ### System and Multi-Thread Applications:
-- **Pokemon Battles Management** - C
+- [**Pokemon Battles Management**](https://github.com/TseytlinMark/Pokemon-Battles) - C
 
 ## Connect with Me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Tseytlin-blue)](https://www.linkedin.com/in/mark-tseytlin/)
