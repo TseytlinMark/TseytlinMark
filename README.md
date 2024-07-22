@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mark Tseytlin
 
-<!--
-**TseytlinMark/TseytlinMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mark, a Software & Information Systems Engineering graduate from Ben-Gurion University (BGU).
 
-Here are some ideas to get you started:
+## My Projects 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full Stack Applications:
+- **Personal Recipes Website** - Vue.js/Node.js
+
+### Information Retrieval Projects:
+- **Wikipedia Search Engine** - Python, PySpark, GCP
+
+### Web Games:
+- **Space Invaders Web Game** - HTML, CSS, Js
+
+### Object-Oriented Programming:
+- **Maze Game Application** - JAVA
+
+### System and Multi-Thread Applications:
+- **Pokemon Battles Management** - C
+
+## Connect with Me 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Tseytlin-blue)](https://www.linkedin.com/in/mark-tseytlin/)
+
+
