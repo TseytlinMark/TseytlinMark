@@ -3,15 +3,17 @@
 I'm Mark, a Software & Information Systems Engineering graduate from Ben-Gurion University (BGU).
 
 ## My Projects 🛠️
-
+### HTML/CSS Website:
+- [**Joseph Stalin Website**](https://github.com/TseytlinMark/HTML_CSS-Project)-HTML/CSS
 ### Full Stack Applications:
-- **Personal Recipes Website** - Vue.js/Node.js
+- [**Personal Recipes Website FrontEnd**](https://github.com/TseytlinMark/REST_API-Project-Recipes-FrontEnd) - Vue.js/Node.js
+- [**Personal Recipes Website BackEnd**](https://github.com/TseytlinMark/REST_API-Project-Recipes-BackEnd) - Vue.js/Node.js
 
 ### Information Retrieval Projects:
-- **Wikipedia Search Engine** - Python, PySpark, GCP
+- [**Wikipedia Search Engine**](https://github.com/TseytlinMark/Information_Retrieval_Engine) - Python, PySpark, GCP
 
 ### Web Games:
-- **Space Invaders Web Game** - HTML, CSS, Js
+- [**Space Invaders Web Game**](https://github.com/TseytlinMark/JavaScript-Chicken-Invaders-Game) - HTML, CSS, JS
 
 ### Object-Oriented Programming:
 - **Maze Game Application** - JAVA
