@@ -20,6 +20,7 @@ I'm Mark, a Software & Information Systems Engineering graduate from Ben-Gurion 
 
 ### Object-Oriented Programming:
 - **Maze Game Application** - JAVA
+- [**Animal Farm**](https://github.com/TseytlinMark/Animal-Farm) - C++, OOP Concepts, Design Patterns
 
 ### Memory Allocation Management: 
 - [**Pokemon Battles Management**](https://github.com/TseytlinMark/Pokemon-Battles) - C
