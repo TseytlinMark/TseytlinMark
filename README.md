@@ -26,7 +26,7 @@ I'm Mark, a Software & Information Systems Engineering graduate from Ben-Gurion 
 - [**Pokemon Battles Management**](https://github.com/TseytlinMark/Pokemon-Battles) - C
 
 ### ALU Implementation ( Logical Gates and Logical Operations ):
-- [**ALU Implementation**](https://github.com/TseytlinMark/Logical-Gates-Components) - C#
+- [**ALU Implementation**](https://github.com/TseytlinMark/Logical-Gates-Components) - C# (based on Nand2Tetris book)
 
 ## Connect with Me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Tseytlin-blue)](https://www.linkedin.com/in/mark-tseytlin/)
